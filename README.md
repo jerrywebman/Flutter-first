@@ -21,3 +21,10 @@ some widgets
 routing
 using assets
 etc
+
+git init
+git add .
+git branch -M main
+git commit -m "Creating a new commit with"
+git remote add origin https://github.com/jerrywebman/Flutter-first.git
+git remote add origin https://github.com/jerrywebman/Flutter-first.gi
