@@ -22,9 +22,14 @@ routing
 using assets
 etc
 
-git init
-git add .
-git branch -M main
-git commit -m "Creating a new commit with"
-git remote add origin https://github.com/jerrywebman/Flutter-first.git
-git remote add origin https://github.com/jerrywebman/Flutter-first.gi
+Git init
+
+Git add .
+
+Git branch -M main
+
+Git commit -m "Creating a new commit with"
+
+Git remote add origin https://github.com/jerrywebman/Flutter-first.git
+
+Git remote add origin https://github.com/jerrywebman/Flutter-first.git
